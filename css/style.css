@@ -96,6 +96,7 @@ body {
 }
 
 form {
+	display: grid;
 	max-width: 400px;
 	margin: auto;
 }
